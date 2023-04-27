@@ -5,7 +5,7 @@ Tony Thompson, developer
 This program will generate a random message every time the program runs. The program will take a base sentence and swap out names and occupations.
 
 ### Example
-Base sentence: Hi, my name is (name) and I am a (occupation).git status
+Base sentence: Hi, my name is (name) and I am a (occupation).
 
 Random message: Hi, my name is Fiona Willings and I am a pediatric dentist.
 
