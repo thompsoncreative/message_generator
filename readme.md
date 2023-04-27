@@ -2,14 +2,12 @@
 Tony Thompson, developer
 
 ## Description
-This program will generate a random message every time the program runs. The program will take a base sentence and swap out the nouns, verbs, and adjectives to generate a new, random, and possibly silly sentence.
+This program will generate a random message every time the program runs. The program will take a base sentence and swap out names and occupations.
 
 ### Example
-Base sentence: A fuzzy bear bounded towards the stream to eat a fish.
+Base sentence: Hi, my name is (name) and I am a (occupation).git status
 
-Random message: A sly cat creeped towards the table to swat the glass.
-
-Random message: A picky dog crawled towards the truck to eat the water.
+Random message: Hi, my name is Fiona Willings and I am a pediatric dentist.
 
 ## Objectives
 - Build a message generator program using JavaScript
