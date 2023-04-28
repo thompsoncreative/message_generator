@@ -2,12 +2,12 @@
 Tony Thompson, developer
 
 ## Description
-This program will generate a random message every time the program runs. The program will take a base sentence and swap out names and occupations.
+This program will generate a random message every time the program runs. The program will take a base sentence and swap out names, occupations, and cities.
 
 ### Example
-Base sentence: Hi, my name is (name) and I am a (occupation).
+Base sentence: Hi, my name is (name), I am a (occupation) working in (city).
 
-Random message: Hi, my name is Fiona Willings and I am a pediatric dentist.
+Random message: Hi, my name is Fiona Willings and I am a pediatric dentist working in Dallas.
 
 ## Objectives
 - Build a message generator program using JavaScript
